@@ -9,6 +9,9 @@ function App() {
   return (
     <>
     <h1>Hello World, Once again </h1>
+    <p>
+      This is a simple Vite + React template with TypeScript.
+    </p>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
