@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1>Hello World, Once again </h1>
+    {/* <h1>Hello World, Once again </h1> */}
     <p>
       This is a simple Vite + React template with TypeScript.
     </p>
